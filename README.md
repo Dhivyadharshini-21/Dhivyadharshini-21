@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhivyadharshini!
 
-<!--
-**Dhivyadharshini-21/Dhivyadharshini-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Data Science student passionate about turning data into meaningful insights.  
+💡 Aspiring Data Analyst with hands-on experience in data analysis, machine learning, and data visualization.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming & Tools:** Python, SQL, Power BI, MS Excel
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Core Concepts:** Data Analysis, Machine Learning (Basic), Statistics (Basic)
+- **Other:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- 🌍 **Air Quality Prediction** – Built a machine learning model to predict air quality levels.
+- 🚗 **Car Price Prediction** – Developed a predictive model to estimate used car prices.
+- 🦠 **COVID-19 Dashboard** – Created an interactive Power BI dashboard to visualize pandemic trends.
+
+## 🌱 Currently Learning
+- Advanced Data Analysis
+- SQL for Data Analytics
+- Data Visualization Techniques
+
+## 📫 Connect with Me
+- 🔗 **LinkedIn:** linkedin.com/in/dhivya-dharshini-cd
+- 💻 **GitHub:** https://github.com/Dhivyadharshini-21
+- 📧 **Email:** dhivyadhivi2111@gmail.com
