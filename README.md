@@ -20,6 +20,6 @@
 - Data Visualization Techniques
 
 ## 📫 Connect with Me
-- 🔗 **LinkedIn:** linkedin.com/in/dhivya-dharshini-cd
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/dhivya-dharshini-cd-898089371
 - 💻 **GitHub:** https://github.com/Dhivyadharshini-21
 - 📧 **Email:** dhivyadhivi2111@gmail.com
